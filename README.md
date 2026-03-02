@@ -97,12 +97,10 @@ Input Layer\
 
 ## 📊 Model Performance
 
-  Metric     Validation   Test
-  ---------- ------------ ------
-  Accuracy   XX%          XX%
-  Loss       X.XX         X.XX
-
-(Add your real numbers here)
+| Metric | Validation | Test |
+|--------|-----------:|-----:|
+| Loss (MSE) | 0.3933 | 0.3938 |
+| MAE | 0.3618 | 0.3615 |
 
 Training and validation curves were monitored to ensure proper
 generalization and prevent overfitting.
